@@ -6,7 +6,7 @@ export default function SignUp() {
           Create Your Xapped Account
         </h1>
         <p className="text-center mb-4">
-          Your one account to test, manage, and access your information
+          Your one account to test, manage, and access your informatio
         </p>
         <p className="text-center">
           Already have an account?{" "}
